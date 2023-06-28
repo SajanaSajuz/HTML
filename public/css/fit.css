@@ -1,0 +1,70 @@
+#body{
+    background-image: url("../image/gyms.jpg");
+    width:100%;
+    height: 900px;
+    background-size:cover;
+
+}
+
+#image{
+    position: relative;
+    width:8%;
+    height:100px;
+    left:30px;
+    top: 20px;
+}
+#fit{
+    color:white;
+    position: relative;
+    /* left:30px; */
+    
+}
+#menu1{
+    background-color: rgb(247, 247, 74);
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left:300px;
+    /* width:70%; */
+    position: relative;
+    /* left:600px; */
+    bottom:150px;
+}
+.apple1{
+    color:rgb(13, 14, 13);
+    font-weight: 900;
+    
+    text-decoration: none;
+  }
+li{
+    display: inline;
+    padding: 30px;
+    
+  }
+
+  #but1{
+    position:relative;
+    font-weight:700;
+
+}
+
+#but2{
+    position:relative;
+    font-weight:700;
+    border:2px solid black;
+    
+
+}
+#join{
+
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:200;
+
+}
+
+#form{
+    border-radius:25px;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}

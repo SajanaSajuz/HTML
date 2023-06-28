@@ -1,0 +1,97 @@
+#ser{
+    text-align: center;
+}
+
+#bodythree{
+    
+    position: relative;
+    display: flex;
+    height:450px;
+    justify-content: space-around;
+}
+#img3{
+    position:relative;
+    top:50px;
+    left:100px;
+    height:50px;
+    width:50px;
+
+}
+
+
+#pone{
+    position:relative;
+    top:40px;
+    text-align:justify;
+
+    
+}
+#div1, #div2, #div3{
+    position: relative;
+    border:4px solid blue;
+    height:250px;
+    width:250px;
+    top:150px;
+    border-radius:20px;
+    padding: 30px;
+
+}
+#maindiv{
+    position: relative;
+    justify-content: space-around;
+    display: flex;
+    height:450px;
+    top:20px;
+    background-color: aquamarine;
+
+    
+}
+#client{
+    text-align: center;
+    position:relative;
+    top:40px;
+}
+#img1,#img2,#img31,#img4{
+    
+    position: relative;
+    width:350px;
+    top:150px;
+
+}
+#main3{
+    text-align: center;
+    background-image:url("../image/bac.jpg");
+    height:700px;
+    background-size: cover;
+    opacity:200px;
+
+    
+}
+#box{
+    height:400px;
+    position: relative;
+    text-align:left;
+    left:30%;
+    width:700px;
+    
+    
+}
+.bor{
+    border:2px solid rgb(7, 7, 7);
+    border-radius:40px;
+    width:400px;
+    height:30px;
+   
+}
+#bort{
+    border:2px solid black;
+    border-radius:22px;
+    width:450px;
+}
+.text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#us{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
